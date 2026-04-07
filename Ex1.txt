@@ -1,6 +1,5 @@
-welcome to netcracker!
-welcome helo v
-od morning
+welcome to netcracker
+
 =======
 helo very good morning
 >>>>>>> main
