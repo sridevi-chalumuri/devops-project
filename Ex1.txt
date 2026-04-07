@@ -1,2 +1,7 @@
+welcome to netcracker!
+welcome helo v
+od morning
+=======
 helo very good morning
+>>>>>>> main
 
